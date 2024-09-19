@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=rtStockCurrentUi
+Name=rtStockCurrentUi
+Name[zh_CN]=rtStockCurrentUi
+Icon=rtStockCurrentUi
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=rtStockCurrentUi
+Version=1.0
